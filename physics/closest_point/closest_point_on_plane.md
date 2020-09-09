@@ -2,6 +2,8 @@
 
 Given a point (pt) and plane (p, N) find the closest point (cpt) that lives on the plane.
 
+![Closest Point on Plane Diagram](images/closest_point_on_plane_diagram.png)
+
 ## Input:
 
 	Position on Plane (Vector3)
