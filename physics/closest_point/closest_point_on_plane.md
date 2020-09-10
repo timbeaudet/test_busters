@@ -4,10 +4,6 @@ Given a point (pt) and plane (p, N) find the closest point (cpt) that lives on t
 
 ![Closest Point on Plane Diagram](images/closest_point_on_plane_diagram.png)
 
-## Formula
-
-![formula](https://render.githubusercontent.com/render/math?math=\Huge%20\text{cpt}%20=%20p%20-%20(pt%20\cdot%20N%20-%20(p%20\cdot%20N))%20\cdot%20N)
-
 ## Input:
 
 	Position on Plane (Vector3)
@@ -106,6 +102,10 @@ Given a point (pt) and plane (p, N) find the closest point (cpt) that lives on t
 	130.5062866211, 7.4174861908, 200.1797180176,
 	-0.3486435115, -0.5443680882, -0.7629547119,
 	65.7452392578, 113.8246459961, 153.8517761230,
+
+## Formula
+
+![formula](https://render.githubusercontent.com/render/math?math=\Huge%20\text{cpt}%20=%20p%20-%20(pt%20\cdot%20N%20-%20(p%20\cdot%20N))%20\cdot%20N)
 
 ## References
 
