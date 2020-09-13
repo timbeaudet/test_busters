@@ -6,9 +6,9 @@ Given a point (pt) and plane (p, N) find the closest point (cpt) that lives on t
 
 ## Input:
 
+	Position of Point (Vector3)
 	Position on Plane (Vector3)
 	Normal of Plane (Vector3)
-	Position of Point (Vector3)
 	
 ## Output:
 
